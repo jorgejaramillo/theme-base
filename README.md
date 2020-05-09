@@ -1,2 +1,7 @@
 # Theme BASE 
-Welcome to Theme BASE. # theme-base
+Welcome to Theme BASE. This is a basic landings package for examples based on Bootstrap 4, optimized for SEO.
+
+Creator: www.jorgejaramillo.com
+Youtube Channel: www.youtube.com/jorgejaramillocom
+
+2020. 
